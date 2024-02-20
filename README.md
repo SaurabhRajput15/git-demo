@@ -1,3 +1,3 @@
 # git-demo
 this is my git demo practice
-Author - Saurabh Rajput
+Author - Saurabh Rajput(Frontend Developer)
